@@ -1,0 +1,1170 @@
+# Copyright (C) 2014 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 3.9\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2014-03-29 19:32:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-02 00:00-0800\n"
+"Last-Translator: Kailey Lampert <trepmal@gmail.com>\n"
+"Language-Team: English-Rev <trepmal@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: en_RE\n"
+
+#: wp-admin/network/index.php:20
+#: wp-admin/network/settings.php:17
+#: wp-admin/network/site-info.php:43
+#: wp-admin/network/site-settings.php:43
+#: wp-admin/network/site-themes.php:60
+#: wp-admin/network/site-users.php:53
+#: wp-admin/network/sites.php:17
+#: wp-admin/network/sites.php:100
+#: wp-admin/network/upgrade.php:39
+#: wp-admin/network/user-new.php:36
+#: wp-admin/network/users.php:17
+#: wp-admin/network/users.php:94
+#: wp-admin/network/users.php:116
+#: wp-admin/network/users.php:129
+#: wp-admin/network/users.php:180
+msgid "You do not have permission to access this page."
+msgstr ".egap siht ssecca ot noissimrep evah ton od uoY"
+
+#: wp-admin/network/index.php:25
+msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
+msgstr ".krowteN etisitluM ruoy fo stcepsa lla gniganam rof desu si sneercS noitartsinimdA eht fo aera sihT .nimdA krowteN ruoy ot emocleW"
+
+#: wp-admin/network/index.php:26
+msgid "From here you can:"
+msgstr ":nac uoy ereh morF"
+
+#: wp-admin/network/index.php:27
+msgid "Add and manage sites or users"
+msgstr "sresu ro setis eganam dna ddA"
+
+#: wp-admin/network/index.php:28
+msgid "Install and activate themes or plugins"
+msgstr "snigulp ro semeht etavitca dna llatsnI"
+
+#: wp-admin/network/index.php:29
+msgid "Update your network"
+msgstr "krowten ruoy etadpU"
+
+#: wp-admin/network/index.php:30
+msgid "Modify global network settings"
+msgstr "sgnittes krowten labolg yfidoM"
+
+#: wp-admin/network/index.php:38
+msgid "The Right Now widget on this screen provides current user and site counts on your network."
+msgstr ".krowten ruoy no stnuoc etis dna resu tnerruc sedivorp neercs siht no tegdiw woN thgiR ehT"
+
+#: wp-admin/network/index.php:39
+msgid "To add a new user, <strong>click Create a New User</strong>."
+msgstr ".<strong>resU weN a etaerC kcilc</strong> ,resu wen a dda oT"
+
+#: wp-admin/network/index.php:40
+msgid "To add a new site, <strong>click Create a New Site</strong>."
+msgstr ".<strong>etiS weN a etaerC kcilc</strong> ,etis wen a dda oT"
+
+#: wp-admin/network/index.php:41
+msgid "To search for a user or site, use the search boxes."
+msgstr ".sexob hcraes eht esu ,etis ro resu a rof hcraes oT"
+
+#: wp-admin/network/index.php:42
+msgid "To search for a user, <strong>enter an email address or username</strong>. Use a wildcard to search for a partial username, such as user&#42;."
+msgstr ".&#24;resu sa hcus ,emanresu laitrap a rof hcraes ot dracdliw a esU .<strong>emanresu ro sserdda liame na retne</strong> ,resu a rof hcraes oT"
+
+#: wp-admin/network/index.php:43
+msgid "To search for a site, <strong>enter the path or domain</strong>."
+msgstr ".<strong>niamod ro htap eht retne</strong> ,etis a rof hcraes oT"
+
+#: wp-admin/network/index.php:47
+msgid "Quick Tasks"
+msgstr "sksaT kciuQ"
+
+#: wp-admin/network/index.php:53
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin\" target=\"_blank\">Documentation on the Network Admin</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin\" target=\"_blank\">nimdA krowteN eht no noitatnemucoD</a>"
+
+#: wp-admin/network/index.php:54
+#: wp-admin/network/site-info.php:33
+#: wp-admin/network/site-new.php:30
+#: wp-admin/network/site-settings.php:33
+#: wp-admin/network/site-themes.php:33
+#: wp-admin/network/site-users.php:36
+#: wp-admin/network/sites.php:46
+#: wp-admin/network/user-new.php:30
+#: wp-admin/network/users.php:244
+msgid "<a href=\"https://wordpress.org/support/forum/multisite/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"https://wordpress.org/support/forum/multisite/\" target=\"_blank\">smuroF troppuS</a>"
+
+#: wp-admin/network/menu.php:17
+msgid "All Sites"
+msgstr "setiS llA"
+
+#: wp-admin/network/menu.php:18
+#: wp-admin/network/sites.php:254
+msgctxt "site"
+msgid "Add New"
+msgstr "weN ddA"
+
+#: wp-admin/network/menu.php:27
+msgid "Themes %s"
+msgstr "%s semehT"
+
+#: wp-admin/network/menu.php:31
+msgid "Installed Themes"
+msgstr "semehT dellatsnI"
+
+#: wp-admin/network/menu.php:32
+#: wp-admin/network/themes.php:228
+msgctxt "theme"
+msgid "Add New"
+msgstr "weN ddA"
+
+#: wp-admin/network/menu.php:46
+#: wp-admin/network/settings.php:19
+msgid "Network Settings"
+msgstr "sgnitteS krowteN"
+
+#: wp-admin/network/menu.php:53
+msgid "Updates"
+msgstr "setadpU"
+
+#: wp-admin/network/menu.php:58
+msgid "Available Updates"
+msgstr "setadpU elbaliavA"
+
+#: wp-admin/network/menu.php:59
+#: wp-admin/network/upgrade.php:18
+#: wp-admin/network/upgrade.php:42
+#: wp-admin/network/upgrade.php:107
+msgid "Upgrade Network"
+msgstr "krowteN edargpU"
+
+#: wp-admin/network/settings.php:26
+msgid "This screen sets and changes options for the network as a whole. The first site is the main site in the network and network options are pulled from that original site&#8217;s options."
+msgstr ".snoitpo s&#8217;etis lanigiro taht morf dellup era snoitpo krowten dna krowten eht ni etis niam eht si etis tsrif ehT .elohw a sa krowten eht rof snoitpo segnahc dna stes neercs sihT"
+
+#: wp-admin/network/settings.php:27
+msgid "Operational settings has fields for the network&#8217;s name and admin email."
+msgstr ".liame nimda dna eman s&#8217;krowten eht rof sdleif sah sgnittes lanoitarepO"
+
+#: wp-admin/network/settings.php:28
+msgid "Registration settings can disable/enable public signups. If you let others sign up for a site, install spam plugins. Spaces, not commas, should separate names banned as sites for this network."
+msgstr ".krowten siht rof setis sa dennab seman etarapes dluohs ,sammoc ton ,secapS .snigulp maps llatsni ,etis a rof pu ngis srehto tel uoy fI .spungis cilbup elbane/elbasid nac sgnittes noitartsigeR"
+
+#: wp-admin/network/settings.php:29
+msgid "New site settings are defaults applied when a new site is created in the network. These include welcome email for when a new site or user account is registered, and what&#8127;s put in the first post, page, comment, comment author, and comment URL."
+msgstr ".LRU tnemmoc dna ,rohtua tnemmoc ,tnemmoc ,egap ,tsop tsrif eht ni tup s;7218#&tahw dna ,deretsiger si tnuocca resu ro etis wen a nehw rof liame emoclew edulcni esehT .krowten eht ni detaerc si etis wen a nehw deilppa stluafed era sgnittes etis weN"
+
+#: wp-admin/network/settings.php:30
+msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
+msgstr ".(ylno detarapes ecaps) detsil osla era sepyt elif dewollA .etis ralucitrap a tide uoy nehw setis cificeps rof eulav tluafed eht egnahc nac uoY .etis hcae rof ecaps daolpu elbaliava fo tnuoma eht dna selif dedaolpu eht fo ezis eht lortnoc sgnittes daolpU"
+
+#: wp-admin/network/settings.php:31
+msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
+msgstr ".snigulp etavitca ot ssecca evah ,snimda etis ton ,snimda repus ylno taht os ,snimda repus non rof gniraeppa morf sunem nigulp eht selbasid/selbane gnittes uneM"
+
+#: wp-admin/network/settings.php:32
+msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."
+msgstr ".segelivirp nimda repus tnarg ot xob a kcehc nac uoy erehw egap resU tidE na ot seog sihT .eman taht woleb knil noitca tidE eht ro emanresU no kcilc dna sresU > nimdA krowteN no sresu gnitsixe fo tsil eht ot og won tsum uoY .neercs snoitpO eht no dedda eb regnol on nac snimda repuS"
+
+#: wp-admin/network/settings.php:37
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin_Settings_Screen\" target=\"_blank\">Documentation on Network Settings</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin_Settings_Screen\" target=\"_blank\">sgnitteS krowteN no noitatnemucoD</a>"
+
+#: wp-admin/network/settings.php:82
+msgid "Options saved."
+msgstr ".devas snoitpO"
+
+#: wp-admin/network/settings.php:90
+msgid "Operational Settings"
+msgstr "sgnitteS lanoitarepO"
+
+#: wp-admin/network/settings.php:93
+#: wp-admin/network.php:291
+msgid "Network Title"
+msgstr "eltiT krowteN"
+
+#: wp-admin/network/settings.php:100
+#: wp-admin/network.php:300
+msgid "Network Admin Email"
+msgstr "liamE nimdA krowteN"
+
+#: wp-admin/network/settings.php:104
+msgid "This email address will receive notifications. Registration and support emails will also come from this address."
+msgstr ".sserdda siht morf emoc osla lliw sliame troppus dna noitartsigeR .snoitacifiton eviecer lliw sserdda liame sihT"
+
+#: wp-admin/network/settings.php:109
+msgid "Registration Settings"
+msgstr "sgnitteS noitartsigeR"
+
+#: wp-admin/network/settings.php:112
+msgid "Allow new registrations"
+msgstr "snoitartsiger wen wollA"
+
+#: wp-admin/network/settings.php:119
+msgid "Registration is disabled."
+msgstr ".delbasid si noitartsigeR"
+
+#: wp-admin/network/settings.php:120
+msgid "User accounts may be registered."
+msgstr ".deretsiger eb yam stnuocca resU"
+
+#: wp-admin/network/settings.php:121
+msgid "Logged in users may register new sites."
+msgstr ".setis wen retsiger yam sresu ni deggoL"
+
+#: wp-admin/network/settings.php:122
+msgid "Both sites and user accounts can be registered."
+msgstr ".deretsiger eb nac stnuocca resu dna setis htoB"
+
+#: wp-admin/network/settings.php:125
+msgid "If registration is disabled, please set <code>NOBLOGREDIRECT</code> in <code>wp-config.php</code> to a URL you will redirect visitors to if they visit a non-existent site."
+msgstr ".etis tnetsixe-non a tisiv yeht fi ot srotisiv tcerider lliw uoy LRU a ot <code>php.gifnoc-pw</code> ni <code>NOBLOGREDIRECT</code> tes esaelp ,delbasid si noitartsiger fI"
+
+#: wp-admin/network/settings.php:132
+msgid "Registration notification"
+msgstr "noitacifiton noitartsigeR"
+
+#: wp-admin/network/settings.php:138
+msgid "Send the network admin an email notification every time someone registers a site or user account."
+msgstr ".tnuocca resu ro etis a sretsiger enoemos emit yreve noitacifiton liame na nimda krowten eht dneS"
+
+#: wp-admin/network/settings.php:143
+msgid "Add New Users"
+msgstr "sresU weN ddA"
+
+#: wp-admin/network/settings.php:145
+msgid "Allow site administrators to add new users to their site via the \"Users &rarr; Add New\" page."
+msgstr ".egap \"weN ddA ;rrar& sresU\" eht aiv etis rieht ot sresu wen dda ot srotartsinimda etis wollA"
+
+#: wp-admin/network/settings.php:150
+msgid "Banned Names"
+msgstr "semaN dennaB"
+
+#: wp-admin/network/settings.php:154
+msgid "Users are not allowed to register these sites. Separate names by spaces."
+msgstr ".secaps yb seman etarapeS .setis eseht retsiger ot dewolla ton era sresU"
+
+#: wp-admin/network/settings.php:160
+msgid "Limited Email Registrations"
+msgstr "snoitartsigeR liamE detimiL"
+
+#: wp-admin/network/settings.php:167
+msgid "If you want to limit site registrations to certain domains. One domain per line."
+msgstr ".enil rep niamod enO .sniamod niatrec ot snoitartsiger etis timil ot tnaw uoy fI"
+
+#: wp-admin/network/settings.php:173
+msgid "Banned Email Domains"
+msgstr "sniamoD liamE dennaB"
+
+#: wp-admin/network/settings.php:178
+msgid "If you want to ban domains from site registrations. One domain per line."
+msgstr ".enil rep niamod enO .snoitartsiger etis morf sniamod nab ot tnaw uoy fI"
+
+#: wp-admin/network/settings.php:184
+msgid "New Site Settings"
+msgstr "sgnitteS etiS weN"
+
+#: wp-admin/network/settings.php:188
+msgid "Welcome Email"
+msgstr "liamE emocleW"
+
+#: wp-admin/network/settings.php:193
+msgid "The welcome email sent to new site owners."
+msgstr ".srenwo etis wen ot tnes liame emoclew ehT"
+
+#: wp-admin/network/settings.php:198
+msgid "Welcome User Email"
+msgstr "liamE resU emocleW"
+
+#: wp-admin/network/settings.php:203
+msgid "The welcome email sent to new users."
+msgstr ".sresu wen ot tnes liame emoclew ehT"
+
+#: wp-admin/network/settings.php:213
+msgid "The first post on a new site."
+msgstr ".etis wen a no tsop tsrif ehT"
+
+#: wp-admin/network/settings.php:218
+msgid "First Page"
+msgstr "egaP tsriF"
+
+#: wp-admin/network/settings.php:223
+msgid "The first page on a new site."
+msgstr ".etis wen a no egap tsrif ehT"
+
+#: wp-admin/network/settings.php:228
+msgid "First Comment"
+msgstr "tnemmoC tsriF"
+
+#: wp-admin/network/settings.php:233
+msgid "The first comment on a new site."
+msgstr ".etis wen a no tnemmoc tsrif ehT"
+
+#: wp-admin/network/settings.php:238
+msgid "First Comment Author"
+msgstr "rohtuA tnemmoC tsriF"
+
+#: wp-admin/network/settings.php:242
+msgid "The author of the first comment on a new site."
+msgstr ".etis wen a no tnemmoc tsrif eht fo rohtua ehT"
+
+#: wp-admin/network/settings.php:247
+msgid "First Comment URL"
+msgstr "LRU tnemmoC tsriF"
+
+#: wp-admin/network/settings.php:251
+msgid "The URL for the first comment on a new site."
+msgstr ".etis wen a no tnemmoc tsrif eht rof LRU ehT"
+
+#: wp-admin/network/settings.php:256
+msgid "Upload Settings"
+msgstr "sgnitteS daolpU"
+
+#: wp-admin/network/settings.php:259
+msgid "Site upload space"
+msgstr "ecaps daolpu etiS"
+
+#: wp-admin/network/settings.php:261
+msgid "Limit total size of files uploaded to %s MB"
+msgstr "BM %s ot dedaolpu selif fo ezis latot timiL"
+
+#: wp-admin/network/settings.php:266
+msgid "Upload file types"
+msgstr "sepyt elif daolpU"
+
+#: wp-admin/network/settings.php:271
+msgid "Max upload file size"
+msgstr "ezis elif daolpu xaM"
+
+#: wp-admin/network/settings.php:272
+msgctxt "File size in kilobytes"
+msgid "%s KB"
+msgstr "BK %s"
+
+#: wp-admin/network/settings.php:281
+msgid "Language Settings"
+msgstr "sgnitteS egaugnaL"
+
+#: wp-admin/network/settings.php:284
+msgid "Default Language"
+msgstr "egaugnaL tluafeD"
+
+#: wp-admin/network/settings.php:299
+msgid "Enable administration menus"
+msgstr "sunem noitartsinimda elbanE"
+
+#: wp-admin/network/site-info.php:17
+#: wp-admin/network/site-settings.php:17
+#: wp-admin/network/site-users.php:17
+msgid "You do not have sufficient permissions to edit this site."
+msgstr ".etis siht tide ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/site-info.php:23
+#: wp-admin/network/site-settings.php:23
+#: wp-admin/network/site-themes.php:23
+#: wp-admin/network/site-users.php:26
+msgid "The menu is for editing information specific to individual sites, particularly if the admin area of a site is unavailable."
+msgstr ".elbaliavanu si etis a fo aera nimda eht fi ylralucitrap ,setis laudividni ot cificeps noitamrofni gnitide rof si unem ehT"
+
+#: wp-admin/network/site-info.php:24
+#: wp-admin/network/site-settings.php:24
+#: wp-admin/network/site-themes.php:24
+#: wp-admin/network/site-users.php:27
+msgid "<strong>Info</strong> - The domain and path are rarely edited as this can cause the site to not work properly. The Registered date and Last Updated date are displayed. Network admins can mark a site as archived, spam, deleted and mature, to remove from public listings or disable."
+msgstr ".elbasid ro sgnitsil cilbup morf evomer ot ,erutam dna deteled ,maps ,devihcra sa etis a kram nac snimda krowteN .deyalpsid era etad detadpU tsaL dna etad deretsigeR ehT .ylreporp krow ton ot etis eht esuac nac siht sa detide ylerar era htap dna niamod ehT - <strong>ofnI</strong>"
+
+#: wp-admin/network/site-info.php:25
+#: wp-admin/network/site-settings.php:25
+#: wp-admin/network/site-themes.php:25
+#: wp-admin/network/site-users.php:28
+msgid "<strong>Users</strong> - This displays the users associated with this site. You can also change their role, reset their password, or remove them from the site. Removing the user from the site does not remove the user from the network."
+msgstr ".krowten eht morf resu eht evomer ton seod etis eht morf resu eht gnivomeR .etis eht morf meht evomer ro ,drowssap rieht teser ,elor rieht egnahc osla nac uoY .etis siht htiw detaicossa sresu eht syalpsid sihT - <strong>sresU</strong>"
+
+#: wp-admin/network/site-info.php:26
+#: wp-admin/network/site-settings.php:26
+#: wp-admin/network/site-themes.php:26
+#: wp-admin/network/site-users.php:29
+msgid "<strong>Themes</strong> - This area shows themes that are not already enabled across the network. Enabling a theme in this menu makes it accessible to this site. It does not activate the theme, but allows it to show in the site&#8217;s Appearance menu. To enable a theme for the entire network, see the <a href=\"%s\">Network Themes</a> screen."
+msgstr ".neercs <a href=\"%s\">semehT krowteN</a> eht ees ,krowten eritne eht rof emeht a elbane oT .unem ecnaraeppA s&#8217;etis eht ni wohs ot ti swolla tub ,emeht eht etavitca ton seod tI .etis siht ot elbissecca ti sekam unem siht ni emeht a gnilbanE .krowten eht ssorca delbane ydaerla ton era taht semeht swohs aera sihT - <strong>semehT</strong>"
+
+#: wp-admin/network/site-info.php:27
+#: wp-admin/network/site-settings.php:27
+#: wp-admin/network/site-themes.php:27
+#: wp-admin/network/site-users.php:30
+msgid "<strong>Settings</strong> - This page shows a list of all settings associated with this site. Some are created by WordPress and others are created by plugins you activate. Note that some fields are grayed out and say Serialized Data. You cannot modify these values due to the way the setting is stored in the database."
+msgstr ".esabatad eht ni derots si gnittes eht yaw eht ot eud seulav eseht yfidom tonnac uoY .ataD dezilaireS yas dna tuo deyarg era sdleif emos taht etoN .etavitca uoy snigulp yb detaerc era srehto dna sserPdroW yb detaerc era emoS .etis siht htiw detaicossa sgnittes lla fo tsil a swohs egap sihT - <strong>sgnitteS</strong>"
+
+#: wp-admin/network/site-info.php:32
+#: wp-admin/network/site-new.php:29
+#: wp-admin/network/site-settings.php:32
+#: wp-admin/network/site-themes.php:32
+#: wp-admin/network/site-users.php:35
+#: wp-admin/network/sites.php:45
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin_Sites_Screen\" target=\"_blank\">Documentation on Site Management</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin_Sites_Screen\" target=\"_blank\">tnemeganaM etiS no noitatnemucoD</a>"
+
+#: wp-admin/network/site-info.php:39
+#: wp-admin/network/site-settings.php:39
+#: wp-admin/network/site-themes.php:54
+#: wp-admin/network/site-users.php:49
+msgid "Invalid site ID."
+msgstr ".DI etis dilavnI"
+
+#: wp-admin/network/site-info.php:84
+msgid "Site info updated."
+msgstr ".detadpu ofni etiS"
+
+#: wp-admin/network/site-info.php:88
+#: wp-admin/network/site-settings.php:79
+#: wp-admin/network/site-themes.php:133
+#: wp-admin/network/site-users.php:161
+msgid "Edit Site: <a href=\"%1$s\">%2$s</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> :etiS tidE"
+
+#: wp-admin/network/site-info.php:89
+#: wp-admin/network/site-settings.php:80
+#: wp-admin/network/site-themes.php:134
+#: wp-admin/network/site-users.php:162
+msgid "Edit Site: %s"
+msgstr "%s :etiS tidE"
+
+#: wp-admin/network/site-info.php:103
+#: wp-admin/network/site-settings.php:94
+#: wp-admin/network/site-themes.php:146
+#: wp-admin/network/site-users.php:191
+msgid "Info"
+msgstr "ofnI"
+
+#: wp-admin/network/site-info.php:142
+msgid "Update <code>siteurl</code> and <code>home</code> as well."
+msgstr ".llew sa <code>emoh</code> dna <code>lruetis</code> etadpU"
+
+#: wp-admin/network/site-new.php:17
+msgid "You do not have sufficient permissions to add sites to this network."
+msgstr ".krowten siht ot setis dda ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/site-new.php:23
+msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
+msgstr ".sgnittes noitartsiger eht yb detceffa ton si sihT .krowten eht ot setis wen dda ot snimdA repuS rof si neercs sihT"
+
+#: wp-admin/network/site-new.php:24
+msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
+msgstr ".detaerc eb osla lliw resu wen a ,esabatad eht ni tsixe ton seod etis wen eht rof liame nimda eht fI"
+
+#: wp-admin/network/site-new.php:37
+msgid "Can&#8217;t create an empty site."
+msgstr ".etis ytpme na etaerc t&#8217;naC"
+
+#: wp-admin/network/site-new.php:49
+msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names: <code>%s</code>"
+msgstr "<code>%s</code> :seman golb sa desu eb tonnac dna snoitcnuf sserPdroW yb esu rof devreser era sdrow gniwollof ehT"
+
+#: wp-admin/network/site-new.php:56
+msgid "Missing or invalid site address."
+msgstr ".sserdda etis dilavni ro gnissiM"
+
+#: wp-admin/network/site-new.php:58
+msgid "Missing email address."
+msgstr ".sserdda liame gnissiM"
+
+#: wp-admin/network/site-new.php:60
+msgid "Invalid email address."
+msgstr ".sserdda liame dilavnI"
+
+#: wp-admin/network/site-new.php:76
+msgid "There was an error creating the user."
+msgstr ".resu eht gnitaerc rorre na saw erehT"
+
+#: wp-admin/network/site-new.php:87
+msgid ""
+"New site created by %1$s\n"
+"\n"
+"Address: %2$s\n"
+"Name: %3$s"
+msgstr ""
+"%1$s yb detaerc etis weN\n"
+"\n"
+"%2$s :sserddA\n"
+"%3$s :emaN"
+
+#: wp-admin/network/site-new.php:91
+msgid "[%s] New Site Created"
+msgstr "detaerC etiS weN [%s]"
+
+#: wp-admin/network/site-new.php:103
+msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
+msgstr "<a href=\"%2$s\">etiS tidE</a> ro <a href=\"%1$s\">draobhsaD tisiV</a> .dedda etiS"
+
+#: wp-admin/network/site-new.php:106
+#: wp-admin/network/site-new.php:116
+msgid "Add New Site"
+msgstr "etiS weN ddA"
+
+#: wp-admin/network/site-new.php:126
+msgid "Site Address"
+msgstr "sserddA etiS"
+
+#: wp-admin/network/site-new.php:142
+msgid "Admin Email"
+msgstr "liamE nimdA"
+
+#: wp-admin/network/site-new.php:146
+msgid "A new user will be created if the above email address is not in the database."
+msgstr ".esabatad eht ni ton si sserdda liame evoba eht fi detaerc eb lliw resu wen A"
+
+#: wp-admin/network/site-new.php:146
+msgid "The username and password will be mailed to this email address."
+msgstr ".sserdda liame siht ot deliam eb lliw drowssap dna emanresu ehT"
+
+#: wp-admin/network/site-new.php:149
+msgid "Add Site"
+msgstr "etiS ddA"
+
+#: wp-admin/network/site-settings.php:75
+msgid "Site options updated."
+msgstr ".detadpu snoitpo etiS"
+
+#: wp-admin/network/site-themes.php:17
+msgid "You do not have sufficient permissions to manage themes for this site."
+msgstr ".etis siht rof semeht eganam ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/site-themes.php:130
+#: wp-admin/network/themes.php:201
+msgctxt "themes per page (screen options)"
+msgid "Themes"
+msgstr "semehT"
+
+#: wp-admin/network/site-themes.php:160
+#: wp-admin/network/themes.php:236
+msgid "Theme enabled."
+msgid_plural "%s themes enabled."
+msgstr[0] ".delbane emehT"
+msgstr[1] ".delbane semeht %s"
+
+#: wp-admin/network/site-themes.php:163
+#: wp-admin/network/themes.php:239
+msgid "Theme disabled."
+msgid_plural "%s themes disabled."
+msgstr[0] ".delbasid emehT"
+msgstr[1] ".delbasid semeht %s"
+
+#: wp-admin/network/site-themes.php:165
+#: wp-admin/network/themes.php:244
+msgid "No theme selected."
+msgstr ".detceles emeht oN"
+
+#: wp-admin/network/site-themes.php:168
+msgid "Network enabled themes are not shown on this screen."
+msgstr ".neercs siht no nwohs ton era semeht delbane krowteN"
+
+#: wp-admin/network/site-users.php:209
+msgid "User is already a member of this site."
+msgstr ".etis siht fo rebmem a ydaerla si resU"
+
+#: wp-admin/network/site-users.php:212
+msgid "Enter the username of an existing user."
+msgstr ".resu gnitsixe na fo emanresu eht retnE"
+
+#: wp-admin/network/site-users.php:218
+msgid "Select a user to change role."
+msgstr ".elor egnahc ot resu a tceleS"
+
+#: wp-admin/network/site-users.php:224
+msgid "Select a user to remove."
+msgstr ".evomer ot resu a tceleS"
+
+#: wp-admin/network/site-users.php:227
+msgid "User created."
+msgstr ".detaerc resU"
+
+#: wp-admin/network/site-users.php:230
+msgid "Enter the username and email."
+msgstr ".liame dna emanresu eht retnE"
+
+#: wp-admin/network/site-users.php:233
+msgid "Duplicated username or email address."
+msgstr ".sserdda liame ro emanresu detacilpuD"
+
+#: wp-admin/network/site-users.php:278
+#: wp-admin/network/user-new.php:102
+msgid "Add User"
+msgstr "resU ddA"
+
+#: wp-admin/network/site-users.php:310
+#: wp-admin/network/user-new.php:98
+msgid "Username and password will be mailed to the above email address."
+msgstr ".sserdda liame evoba eht ot deliam eb lliw drowssap dna emanresU"
+
+#: wp-admin/network/sites.php:25
+msgctxt "sites per page (screen options)"
+msgid "Sites"
+msgstr "setiS"
+
+#: wp-admin/network/sites.php:31
+msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
+msgstr ".egap eno no yalpsid ot setis ynam woh esoohc ot uoy swolla snoitpO neercS .sserdda PI ro ,rebmun DI ,emaN yb etis a rof hcraes nac uoY .neercs etiS weN ddA eht ot uoy sekat weN ddA"
+
+#: wp-admin/network/sites.php:32
+msgid "This is the main table of all sites on this network. Switch between list and excerpt views by using the icons above the right side of the table."
+msgstr ".elbat eht fo edis thgir eht evoba snoci eht gnisu yb sweiv tprecxe dna tsil neewteb hctiwS .krowten siht no setis lla fo elbat niam eht si sihT"
+
+#: wp-admin/network/sites.php:33
+msgid "Hovering over each site reveals seven options (three for the primary site):"
+msgstr ":(etis yramirp eht rof eerht) snoitpo neves slaever etis hcae revo gnirevoH"
+
+#: wp-admin/network/sites.php:34
+msgid "An Edit link to a separate Edit Site screen."
+msgstr ".neercs etiS tidE etarapes a ot knil tidE nA"
+
+#: wp-admin/network/sites.php:35
+msgid "Dashboard leads to the Dashboard for that site."
+msgstr ".etis taht rof draobhsaD eht ot sdael draobhsaD"
+
+#: wp-admin/network/sites.php:36
+msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
+msgstr ".retal desrever eb nac snoitca esehT .sneercs noitamrifnoc ot dael hcihw mapS dna ,evihcrA ,etavitcaeD"
+
+#: wp-admin/network/sites.php:37
+msgid "Delete which is a permanent action after the confirmation screens."
+msgstr ".sneercs noitamrifnoc eht retfa noitca tnenamrep a si hcihw eteleD"
+
+#: wp-admin/network/sites.php:38
+msgid "Visit to go to the frontend site live."
+msgstr ".evil etis dnetnorf eht ot og ot tisiV"
+
+#: wp-admin/network/sites.php:39
+msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
+msgstr ".sreweiv/sresu ot ro etis eht fo dne tnorf eht no nwohs ton si dna ,yllanretni desu si DI etis ehT"
+
+#: wp-admin/network/sites.php:40
+msgid "Clicking on bold headings can re-sort this table."
+msgstr ".elbat siht tros-er nac sgnidaeh dlob no gnikcilC"
+
+#: wp-admin/network/sites.php:64
+#: wp-admin/network/sites.php:131
+msgid "You are not allowed to change the current site."
+msgstr ".etis tnerruc eht egnahc ot dewolla ton era uoY"
+
+#: wp-admin/network/sites.php:70
+msgid "Confirm your action"
+msgstr "noitca ruoy mrifnoC"
+
+#: wp-admin/network/sites.php:77
+msgid "Confirm"
+msgstr "mrifnoC"
+
+#: wp-admin/network/sites.php:118
+msgid "You are not allowed to delete the site."
+msgstr ".etis eht eteled ot dewolla ton era uoY"
+
+#: wp-admin/network/sites.php:194
+msgid "Sites removed from spam."
+msgstr ".maps morf devomer setiS"
+
+#: wp-admin/network/sites.php:197
+msgid "Sites marked as spam."
+msgstr ".maps sa dekram setiS"
+
+#: wp-admin/network/sites.php:200
+msgid "Sites deleted."
+msgstr ".deteled setiS"
+
+#: wp-admin/network/sites.php:203
+msgid "Site deleted."
+msgstr ".deteled etiS"
+
+#: wp-admin/network/sites.php:206
+msgid "You do not have permission to delete that site."
+msgstr ".etis taht eteled ot noissimrep evah ton od uoY"
+
+#: wp-admin/network/sites.php:209
+msgid "Site archived."
+msgstr ".devihcra etiS"
+
+#: wp-admin/network/sites.php:212
+msgid "Site unarchived."
+msgstr ".devihcranu etiS"
+
+#: wp-admin/network/sites.php:215
+msgid "Site activated."
+msgstr ".detavitca etiS"
+
+#: wp-admin/network/sites.php:218
+msgid "Site deactivated."
+msgstr ".detavitcaed etiS"
+
+#: wp-admin/network/sites.php:221
+msgid "Site removed from spam."
+msgstr ".maps morf devomer etiS"
+
+#: wp-admin/network/sites.php:224
+msgid "Site marked as spam."
+msgstr ".maps sa dekram etiS"
+
+#: wp-admin/network/themes.php:17
+msgid "You do not have sufficient permissions to manage network themes."
+msgstr ".semeht krowten eganam ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/themes.php:105
+msgid "You do not have sufficient permissions to delete themes for this site."
+msgstr ".etis siht rof semeht eteled ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/themes.php:139
+msgid "Delete Theme"
+msgid_plural "Delete Themes"
+msgstr[0] "emehT eteleD"
+msgstr[1] "semehT eteleD"
+
+#: wp-admin/network/themes.php:141
+msgid "This theme may be active on other sites in the network."
+msgid_plural "These themes may be active on other sites in the network."
+msgstr[0] ".krowten eht ni setis rehto no evitca eb yam emeht sihT"
+msgstr[1] ".krowten eht ni setis rehto no evitca eb yam semeht esehT"
+
+#: wp-admin/network/themes.php:142
+msgid "You are about to remove the following theme:"
+msgid_plural "You are about to remove the following themes:"
+msgstr[0] ":emeht gniwollof eht evomer ot tuoba era uoY"
+msgstr[1] ":semeht gniwollof eht evomer ot tuoba era uoY"
+
+#. translators: 1: theme name, 2: theme author
+#: wp-admin/network/themes.php:147
+msgid "Are you sure you wish to delete these themes?"
+msgstr "?semeht eseht eteled ot hsiw uoy erus uoy erA"
+
+#: wp-admin/network/themes.php:156
+msgid "Yes, Delete this theme"
+msgid_plural "Yes, Delete these themes"
+msgstr[0] "emeht siht eteleD ,seY"
+msgstr[1] "semeht eseht eteleD ,seY"
+
+#: wp-admin/network/themes.php:159
+msgid "No, Return me to the theme list"
+msgstr "tsil emeht eht ot em nruteR ,oN"
+
+#: wp-admin/network/themes.php:207
+msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
+msgstr ".gnisu yltnerruc si etis a emeht hcihw etavitcaed ro etavitca ton seod tI .etis hcae rof unem ecnaraeppA eht ni esoohc ot elbaliava semeht fo noisulcni eht selbasid dna selbane neercs sihT"
+
+#: wp-admin/network/themes.php:208
+msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
+msgstr ".neercs semehT < ecnaraeppA s&#8217;etis eht ni raeppa ton lliw emeht delbasid eht ,nesohc si emeht rehtona fI .etis taht no detceles niamer llits nac ti ,esu ni si taht emeht a selbasid nimda krowten eht fI"
+
+#: wp-admin/network/themes.php:209
+msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
+msgstr ".semeht tide ro llatsni ot elba era snimda krowten ylnO .neercs setiS llA eht no knil noitca tidE eht aiv ereht teg ;(bat semehT a sah hcihw) neercs etiS tidE eht no nimda krowten eht yb sisab etis yb etis a no delbane eb nac semehT"
+
+#: wp-admin/network/themes.php:214
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin_Themes_Screen\" target=\"_blank\">Documentation on Network Themes</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin_Themes_Screen\" target=\"_blank\">semehT krowteN no noitatnemucoD</a>"
+
+#: wp-admin/network/themes.php:242
+msgctxt "network"
+msgid "Theme deleted."
+msgid_plural "%s themes deleted."
+msgstr[0] ".deteled emehT"
+msgstr[1] ".deteled semeht %s"
+
+#: wp-admin/network/themes.php:246
+msgid "You cannot delete a theme while it is active on the main site."
+msgstr ".etis niam eht no evitca si ti elihw emeht a eteled tonnac uoY"
+
+#: wp-admin/network/upgrade.php:25
+msgid "Only use this screen once you have updated to a new version of WordPress through Updates/Available Updates (via the Network Administration navigation menu or the Toolbar). Clicking the Upgrade Network button will step through each site in the network, five at a time, and make sure any database updates are applied."
+msgstr ".deilppa era setadpu esabatad yna erus ekam dna ,emit a ta evif ,krowten eht ni etis hcae hguorht pets lliw nottub krowteN edargpU eht gnikcilC .(rablooT eht ro unem noitagivan noitartsinimdA krowteN eht aiv) setadpU elbaliavA/setadpU hguorht sserPdroW fo noisrev wen a ot detadpu evah uoy ecno neercs siht esu ylnO"
+
+#: wp-admin/network/upgrade.php:26
+msgid "If a version update to core has not happened, clicking this button won&#8217;t affect anything."
+msgstr ".gnihtyna tceffa t&#8217;now nottub siht gnikcilc ,deneppah ton sah eroc ot etadpu noisrev a fI"
+
+#: wp-admin/network/upgrade.php:27
+msgid "If this process fails for any reason, users logging in to their sites will force the same update."
+msgstr ".etadpu emas eht ecrof lliw setis rieht ot ni gniggol sresu ,nosaer yna rof sliaf ssecorp siht fI"
+
+#: wp-admin/network/upgrade.php:32
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin_Updates_Screen\" target=\"_blank\">Documentation on Upgrade Network</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin_Updates_Screen\" target=\"_blank\">krowteN edargpU no noitatnemucoD</a>"
+
+#: wp-admin/network/upgrade.php:57
+msgid "All done!"
+msgstr "!enod llA"
+
+#: wp-admin/network/upgrade.php:69
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: <em>%2$s</em>"
+msgstr "<em>%2$s</em> :egassem rorrE .ti no gninnur setis ot tcennoc ot elba eb ton yam revres ruoY .%1$s gnitadpu melborP !gninraW"
+
+#: wp-admin/network/upgrade.php:88
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr ":knil siht kcilc ,yllacitamotua egap txen eht gnidaol trats t&#8217;nseod resworb ruoy fI"
+
+#: wp-admin/network/upgrade.php:88
+msgid "Next Sites"
+msgstr "setiS txeN"
+
+#: wp-admin/network/upgrade.php:102
+msgid "Database Upgrade Required"
+msgstr "deriuqeR edargpU esabataD"
+
+#: wp-admin/network/upgrade.php:103
+msgid "WordPress has been updated! Before we send you on your way, we need to individually upgrade the sites in your network."
+msgstr ".krowten ruoy ni setis eht edargpu yllaudividni ot deen ew ,yaw ruoy no uoy dnes ew erofeB !detadpu neeb sah sserPdroW"
+
+#: wp-admin/network/upgrade.php:106
+msgid "The database upgrade process may take a little while, so please be patient."
+msgstr ".tneitap eb esaelp os ,elihw elttil a ekat yam ssecorp edargpu esabatad ehT"
+
+#: wp-admin/network/user-new.php:17
+msgid "You do not have sufficient permissions to add users to this network."
+msgstr ".krowten siht ot sresu dda ot snoissimrep tneiciffus evah ton od uoY"
+
+#: wp-admin/network/user-new.php:23
+msgid "Add User will set up a new user account on the network and send that person an email with username and password."
+msgstr ".drowssap dna emanresu htiw liame na nosrep taht dnes dna krowten eht no tnuocca resu wen a pu tes lliw resU ddA"
+
+#: wp-admin/network/user-new.php:24
+msgid "Users who are signed up to the network without a site are added as subscribers to the main or primary dashboard site, giving them profile pages to manage their accounts. These users will only see Dashboard and My Sites in the main navigation until a site is created for them."
+msgstr ".meht rof detaerc si etis a litnu noitagivan niam eht ni setiS yM dna draobhsaD ees ylno lliw sresu esehT .stnuocca rieht eganam ot segap eliforp meht gnivig ,etis draobhsad yramirp ro niam eht ot srebircsbus sa dedda era etis a tuohtiw krowten eht ot pu dengis era ohw sresU"
+
+#: wp-admin/network/user-new.php:29
+#: wp-admin/network/users.php:243
+msgid "<a href=\"http://codex.wordpress.org/Network_Admin_Users_Screen\" target=\"_blank\">Documentation on Network Users</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Network_Admin_Users_Screen\" target=\"_blank\">sresU krowteN no noitatnemucoD</a>"
+
+#: wp-admin/network/user-new.php:39
+msgid "Cannot create an empty user."
+msgstr ".resu ytpme na etaerc tonnaC"
+
+#: wp-admin/network/user-new.php:51
+msgid "Cannot add user."
+msgstr ".resu dda tonnaC"
+
+#: wp-admin/network/users.php:25
+msgid "Transfer or delete content before deleting users."
+msgstr ".sresu gniteled erofeb tnetnoc eteled ro refsnarT"
+
+#: wp-admin/network/users.php:38
+msgid "Warning! User %s cannot be deleted."
+msgstr ".deteled eb tonnac %s resU !gninraW"
+
+#: wp-admin/network/users.php:41
+msgid "Warning! User cannot be deleted. The user %s is a network administrator."
+msgstr ".rotartsinimda krowten a si %s resu ehT .deteled eb tonnac resU !gninraW"
+
+#: wp-admin/network/users.php:48
+msgid "What should be done with content owned by %s?"
+msgstr "?%s yb denwo tnetnoc htiw enod eb dluohs tahW"
+
+#: wp-admin/network/users.php:66
+msgid "Site: %s"
+msgstr "%s :etiS"
+
+#: wp-admin/network/users.php:143
+msgid "Warning! User cannot be modified. The user %s is a network administrator."
+msgstr ".rotartsinimda krowten a si %s resu ehT .deifidom eb tonnac resU !gninraW"
+
+#: wp-admin/network/users.php:233
+msgid "This table shows all users across the network and the sites to which they are assigned."
+msgstr ".dengissa era yeht hcihw ot setis eht dna krowten eht ssorca sresu lla swohs elbat sihT"
+
+#: wp-admin/network/users.php:234
+msgid "Hover over any user on the list to make the edit links appear. The Edit link on the left will take you to their Edit User profile page; the Edit link on the right by any site name goes to an Edit Site screen for that site."
+msgstr ".etis taht rof neercs etiS tidE na ot seog eman etis yna yb thgir eht no knil tidE eht ;egap eliforp resU tidE rieht ot uoy ekat lliw tfel eht no knil tidE ehT .raeppa sknil tide eht ekam ot tsil eht no resu yna revo revoH"
+
+#: wp-admin/network/users.php:235
+msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
+msgstr ".emanresu laudividni eht no gnikcilc yb egap eliforp s&#8217;resu eht ot og osla nac uoY"
+
+#: wp-admin/network/users.php:236
+msgid "You can sort the table by clicking on any of the bold headings and switch between list and excerpt views by using the icons in the upper right."
+msgstr ".thgir reppu eht ni snoci eht gnisu yb sweiv tprecxe dna tsil neewteb hctiws dna sgnidaeh dlob eht fo yna no gnikcilc yb elbat eht tros nac uoY"
+
+#: wp-admin/network/users.php:237
+msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
+msgstr ".sesserdda liame emas eht htiw niaga pu ngis ot elbanu eb lliw dna devomer stsop evah lliw sresu mapS .maps sa detceles esoht kramnu/kram ro ,sresu detceles eteled yltnenamrep lliw noitca klub ehT"
+
+#: wp-admin/network/users.php:238
+msgid "You can make an existing user an additional super admin by going to the Edit User profile page and checking the box to grant that privilege."
+msgstr ".egelivirp taht tnarg ot xob eht gnikcehc dna egap eliforp resU tidE eht ot gniog yb nimda repus lanoitidda na resu gnitsixe na ekam nac uoY"
+
+#: wp-admin/network/users.php:258
+msgid "Users marked as spam."
+msgstr ".maps sa dekram sresU"
+
+#: wp-admin/network/users.php:261
+msgid "Users removed from spam."
+msgstr ".maps morf devomer sresU"
+
+#: wp-admin/network/users.php:264
+msgid "Users deleted."
+msgstr ".deteled sresU"
+
+#: wp-admin/network.php:27
+msgid "The Network creation panel is not for WordPress MU networks."
+msgstr ".skrowten UM sserPdroW rof ton si lenap noitaerc krowteN ehT"
+
+#: wp-admin/network.php:103
+msgid "You must define the <code>WP_ALLOW_MULTISITE</code> constant as true in your wp-config.php file to allow creation of a Network."
+msgstr ".krowteN a fo noitaerc wolla ot elif php.gifnoc-pw ruoy ni eurt sa tnatsnoc <code>ETISITLUM_WOLLA_PW</code> eht enifed tsum uoY"
+
+#: wp-admin/network.php:109
+msgid "Create a Network of WordPress Sites"
+msgstr "setiS sserPdroW fo krowteN a etaerC"
+
+#: wp-admin/network.php:113
+msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
+msgstr ".ti swolla tsoh ruoy fi ,sdrocer SND dna ehcapA ni delbane eb ot sniamodbus dracdliw eriuqer sniamodbuS .(<code>1etis/moc.elpmaxe</code>) seirotceridbus ro (<code>moc.elpmaxe.1etis</code>) sniamodbus gnivah sa krowten a erugifnoc ot uoy swolla neercs sihT"
+
+#: wp-admin/network.php:114
+msgid "Choose subdomains or subdirectories; this can only be switched afterwards by reconfiguring your install. Fill out the network details, and click install. If this does not work, you may have to add a wildcard DNS record (for subdomains) or change to another setting in Permalinks (for subdirectories)."
+msgstr ".(seirotceridbus rof) sknilamreP ni gnittes rehtona ot egnahc ro (sniamodbus rof) drocer SND dracdliw a dda ot evah yam uoy ,krow ton seod siht fI .llatsni kcilc dna ,sliated krowten eht tuo lliF .llatsni ruoy gnirugifnocer yb sdrawretfa dehctiws eb ylno nac siht ;seirotceridbus ro sniamodbus esoohC"
+
+#: wp-admin/network.php:115
+msgid "The next screen for Network Setup will give you individually-generated lines of code to add to your wp-config.php and .htaccess files. Make sure the settings of your FTP client make files starting with a dot visible, so that you can find .htaccess; you may have to create this file if it really is not there. Make backup copies of those two files."
+msgstr ".selif owt esoht fo seipoc pukcab ekaM .ereht ton si yllaer ti fi elif siht etaerc ot evah yam uoy ;sseccath. dnif nac uoy taht os ,elbisiv tod a htiw gnitrats selif ekam tneilc PTF ruoy fo sgnittes eht erus ekaM .selif sseccath. dna php.gifnoc-pw ruoy ot dda ot edoc fo senil detareneg-yllaudividni uoy evig lliw puteS krowteN rof neercs txen ehT"
+
+#: wp-admin/network.php:116
+msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing WordPress rules)."
+msgstr ".(selur sserPdroW gnitsixe eht gnicalper) <code>sseccath.</code> dna (<code>/*...gnitide pots...*/</code> erofeb tsuj) php.gifnoc-pw ot edoc fo senil detangised eht ddA"
+
+#: wp-admin/network.php:117
+msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
+msgstr ".rablooT eht ni nwodpord setiS yM eht rednu eman etis laudividni na ro nimdA krowteN eht no gnikcilc yb nimdA etiS dna nimdA krowteN neewteb elggot nac uoY .edoc dedda eht fo evihcra na peek lliw ,unem noitagivan nimdA krowteN eht ni won ,neercs sihT .delbane eb dluohs etisitlum ,resworb ruoy hserfer dna edoc siht dda uoy ecnO"
+
+#: wp-admin/network.php:118
+msgid "The choice of subdirectory sites is disabled if this setup is more than a month old because of permalink problems with &#8220;/blog/&#8221; from the main site. This disabling will be addressed in a future version."
+msgstr ".noisrev erutuf a ni desserdda eb lliw gnilbasid sihT .etis niam eht morf &#8220;/golb/&#8221; htiw smelborp knilamrep fo esuaceb dlo htnom a naht erom si putes siht fi delbasid si setis yrotceridbus fo eciohc ehT"
+
+#: wp-admin/network.php:120
+#: wp-admin/network.php:131
+msgid "<a href=\"http://codex.wordpress.org/Create_A_Network\" target=\"_blank\">Documentation on Creating a Network</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Create_A_Network\" target=\"_blank\">krowteN a gnitaerC no noitatnemucoD</a>"
+
+#: wp-admin/network.php:121
+#: wp-admin/network.php:132
+msgid "<a href=\"http://codex.wordpress.org/Tools_Network_Screen\" target=\"_blank\">Documentation on the Network Screen</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Tools_Network_Screen\" target=\"_blank\">neercS krowteN eht no noitatnemucoD</a>"
+
+#: wp-admin/network.php:125
+msgid "Network"
+msgstr "krowteN"
+
+#: wp-admin/network.php:154
+msgid "The constant DO_NOT_UPGRADE_GLOBAL_TABLES cannot be defined when creating a network."
+msgstr ".krowten a gnitaerc nehw denifed eb tonnac SELBAT_LABOLG_EDARGPU_TON_OD tnatsnoc ehT"
+
+#: wp-admin/network.php:162
+#: wp-admin/network.php:356
+#: wp-admin/network.php:478
+#: wp-admin/network.php:514
+msgid "Warning:"
+msgstr ":gninraW"
+
+#: wp-admin/network.php:162
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr ".erutaef krowteN eht gnilbane erofeb <a href=\"%s\">snigulp ruoy etavitcaed</a> esaelP"
+
+#: wp-admin/network.php:162
+msgid "Once the network is created, you may reactivate your plugins."
+msgstr ".snigulp ruoy etavitcaer yam uoy ,detaerc si krowten eht ecnO"
+
+#: wp-admin/network.php:171
+msgid "You cannot install a network of sites with your server address."
+msgstr ".sserdda revres ruoy htiw setis fo krowten a llatsni tonnac uoY"
+
+#: wp-admin/network.php:172
+msgid "You cannot use port numbers such as <code>%s</code>."
+msgstr ".<code>%s</code> sa hcus srebmun trop esu tonnac uoY"
+
+#: wp-admin/network.php:173
+msgid "Return to Dashboard"
+msgstr "draobhsaD ot nruteR"
+
+#: wp-admin/network.php:185
+msgid "ERROR: The network could not be created."
+msgstr ".detaerc eb ton dluoc krowten ehT :RORRE"
+
+#: wp-admin/network.php:192
+msgctxt "Default network name"
+msgid "%s Sites"
+msgstr "setiS %s"
+
+#: wp-admin/network.php:195
+msgid "Welcome to the Network installation process!"
+msgstr "!ssecorp noitallatsni krowteN eht ot emocleW"
+
+#: wp-admin/network.php:196
+msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of WordPress sites. We will create configuration files in the next step."
+msgstr ".pets txen eht ni selif noitarugifnoc etaerc lliw eW .setis sserPdroW fo krowten a gnitaerc ot yaw ruoy no eb ll&#8217;uoy dna woleb noitamrofni eht ni lliF"
+
+#: wp-admin/network.php:208
+msgid "Note:"
+msgstr ":etoN"
+
+#: wp-admin/network.php:208
+msgid "Please make sure the Apache <code>mod_rewrite</code> module is installed as it will be used at the end of this installation."
+msgstr ".noitallatsni siht fo dne eht ta desu eb lliw ti sa dellatsni si eludom <code>etirwer_dom</code> ehcapA eht erus ekam esaelP"
+
+#: wp-admin/network.php:210
+#: wp-admin/network.php:235
+#: wp-admin/network.php:261
+#: wp-admin/network.php:271
+msgid "Warning!"
+msgstr "!gninraW"
+
+#: wp-admin/network.php:210
+msgid "It looks like the Apache <code>mod_rewrite</code> module is not installed."
+msgstr ".dellatsni ton si eludom <code>etirwer_dom</code> ehcapA eht ekil skool tI"
+
+#: wp-admin/network.php:212
+msgid "If <code>mod_rewrite</code> is disabled, ask your administrator to enable that module, or look at the <a href=\"http://httpd.apache.org/docs/mod/mod_rewrite.html\">Apache documentation</a> or <a href=\"http://www.google.com/search?q=apache+mod_rewrite\">elsewhere</a> for help setting it up."
+msgstr ".pu ti gnittes pleh rof  <a href=\"http://www.google.com/search?q=apache+mod_rewrite\">erehwesle</a>ro <a href=\"http://httpd.apache.org/docs/mod/mod_rewrite.html\">noitatnemucod ehcapA</a> eht ta kool ro ,eludom taht elbane ot rotartsinimda ruoy ksa ,delbasid si <code>etirwer_dom</code> fI"
+
+#: wp-admin/network.php:216
+msgid "Addresses of Sites in your Network"
+msgstr "krowteN ruoy ni setiS fo sesserddA"
+
+#: wp-admin/network.php:217
+msgid "Please choose whether you would like sites in your WordPress network to use sub-domains or sub-directories. <strong>You cannot change this later.</strong>"
+msgstr "<strong>.retal siht egnahc tonnac uoY</strong> .seirotcerid-bus ro sniamod-bus esu ot krowten sserPdroW ruoy ni setis ekil dluow uoy rehtehw esoohc esaelP"
+
+#: wp-admin/network.php:218
+msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
+msgstr ".ytilanoitcnuf (niamod-bus) tsoh lautriv eht esu ot gniog era uoy fi drocer SND dracdliw a deen lliw uoY"
+
+#: wp-admin/network.php:222
+msgid "Sub-domains"
+msgstr "sniamod-buS"
+
+#: wp-admin/network.php:223
+msgctxt "subdomain examples"
+msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
+msgstr "<code>%1$s.2etis</code> dna <code>%1$s.1etis</code> ekil"
+
+#: wp-admin/network.php:226
+msgid "Sub-directories"
+msgstr "seirotcerid-buS"
+
+#: wp-admin/network.php:227
+msgctxt "subdirectory examples"
+msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
+msgstr "<code>2etis/%1$s</code> dna <code>1etis/%1$s</code> ekil"
+
+#: wp-admin/network.php:235
+#: wp-admin/network.php:478
+#: wp-admin/network.php:514
+msgid "Subdirectory networks may not be fully compatible with custom wp-content directories."
+msgstr ".seirotcerid tnetnoc-pw motsuc htiw elbitapmoc ylluf eb ton yam skrowten yrotceridbuS"
+
+#: wp-admin/network.php:240
+#: wp-admin/network.php:244
+#: wp-admin/network.php:284
+msgid "Server Address"
+msgstr "sserddA revreS"
+
+#: wp-admin/network.php:241
+msgid "We recommend you change your siteurl to <code>%1$s</code> before enabling the network feature. It will still be possible to visit your site using the <code>www</code> prefix with an address like <code>%2$s</code> but any links will not have the <code>www</code> prefix."
+msgstr ".xiferp <code>www</code> eht evah ton lliw sknil yna tub <code>%2$s</code> ekil sserdda na htiw xiferp <code>www</code> eht gnisu etis ruoy tisiv ot elbissop eb llits lliw tI .erutaef krowten eht gnilbane erofeb <code>%1$s</code> ot lruetis ruoy egnahc uoy dnemmocer eW"
+
+#: wp-admin/network.php:246
+#: wp-admin/network.php:286
+msgid "The internet address of your network will be <code>%s</code>."
+msgstr ".<code>%s</code> eb lliw krowten ruoy fo sserdda tenretni ehT"
+
+#: wp-admin/network.php:252
+msgid "Network Details"
+msgstr "sliateD krowteN"
+
+#: wp-admin/network.php:256
+#: wp-admin/network.php:266
+msgid "Sub-directory Install"
+msgstr "llatsnI yrotcerid-buS"
+
+#: wp-admin/network.php:258
+msgid "Because you are using <code>localhost</code>, the sites in your WordPress network must use sub-directories. Consider using <code>localhost.localdomain</code> if you wish to use sub-domains."
+msgstr ".sniamod-bus esu ot hsiw uoy fi <code>niamodlacol.tsohlacol</code> gnisu redisnoC .seirotcerid-bus esu tsum krowten sserPdroW ruoy ni setis eht ,<code>tsohlacol</code> gnisu era uoy esuaceB"
+
+#: wp-admin/network.php:261
+#: wp-admin/network.php:271
+#: wp-admin/network.php:278
+msgid "The main site in a sub-directory install will need to use a modified permalink structure, potentially breaking existing links."
+msgstr ".sknil gnitsixe gnikaerb yllaitnetop ,erutcurts knilamrep deifidom a esu ot deen lliw llatsni yrotcerid-bus a ni etis niam ehT"
+
+#: wp-admin/network.php:268
+msgid "Because your install is in a directory, the sites in your WordPress network must use sub-directories."
+msgstr ".seirotcerid-bus esu tsum krowten sserPdroW ruoy ni setis eht ,yrotcerid a ni si llatsni ruoy esuaceB"
+
+#: wp-admin/network.php:276
+msgid "Sub-domain Install"
+msgstr "llatsnI niamod-buS"
+
+#: wp-admin/network.php:277
+msgid "Because your install is not new, the sites in your WordPress network must use sub-domains."
+msgstr ".sniamod-bus esu tsum krowten sserPdroW ruoy ni setis eht ,wen ton si llatsni ruoy esuaceB"
+
+#: wp-admin/network.php:295
+msgid "What would you like to call your network?"
+msgstr "?krowten ruoy llac ot ekil uoy dluow tahW"
+
+#: wp-admin/network.php:304
+msgid "Your email address."
+msgstr ".sserdda liame ruoY"
+
+#: wp-admin/network.php:351
+msgid "The original configuration steps are shown here for reference."
+msgstr ".ecnerefer rof ereh nwohs era spets noitarugifnoc lanigiro ehT"
+
+#: wp-admin/network.php:356
+msgid "An existing WordPress network was detected."
+msgstr ".detceted saw krowten sserPdroW gnitsixe nA"
+
+#: wp-admin/network.php:357
+msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
+msgstr ".selbat esabatad krowten eht evomer ro ytpme ot deen lliw uoy ,krowten wen a etaerc oT .spets noitarugifnoc eht etelpmoc esaelP"
+
+#: wp-admin/network.php:368
+msgid "Enabling the Network"
+msgstr "krowteN eht gnilbanE"
+
+#: wp-admin/network.php:369
+msgid "Complete the following steps to enable the features for creating a network of sites."
+msgstr ".setis fo krowten a gnitaerc rof serutaef eht elbane ot spets gniwollof eht etelpmoC"
+
+#: wp-admin/network.php:372
+#: wp-admin/network.php:374
+msgid "<strong>Caution:</strong> We recommend you back up your existing <code>wp-config.php</code> and <code>%s</code> files."
+msgstr ".selif <code>%s</code> dna <code>php.gifnoc-pw</code> gnitsixe ruoy pu kcab uoy dnemmocer eW <strong>:noituaC</strong>"
+
+#: wp-admin/network.php:376
+msgid "<strong>Caution:</strong> We recommend you back up your existing <code>wp-config.php</code> file."
+msgstr ".elif <code>php.gifnoc-pw</code> gnitsixe ruoy pu kcab uoy dnemmocer eW <strong>:noituaC</strong>"
+
+#: wp-admin/network.php:382
+msgid "Add the following to your <code>wp-config.php</code> file in <code>%s</code> <strong>above</strong> the line reading <code>/* That&#8217;s all, stop editing! Happy blogging. */</code>:"
+msgstr ":<code>/* .gniggolb yppaH !gnitide pots ,lla s&#8217;tahT */</code> gnidaer enil eht <strong>evoba</strong> <code>%s</code> ni elif <code>php.gifnoc-pw</code> ruoy ot gniwollof eht ddA"
+
+#: wp-admin/network.php:413
+msgid "This unique authentication key is also missing from your <code>wp-config.php</code> file."
+msgid_plural "These unique authentication keys are also missing from your <code>wp-config.php</code> file."
+msgstr[0] ".elif <code>php.gifnoc-pw</code> ruoy morf gnissim osla si yek noitacitnehtua euqinu sihT"
+msgstr[1] ".elif <code>php.gifnoc-pw</code> ruoy morf gnissim osla era syek noitacitnehtua euqinu esehT"
+
+#: wp-admin/network.php:413
+msgid "To make your installation more secure, you should also add:"
+msgstr ":dda osla dluohs uoy ,eruces erom noitallatsni ruoy ekam oT"
+
+#. translators: 1: a filename like .htaccess. 2: a file path.
+#: wp-admin/network.php:474
+#: wp-admin/network.php:510
+msgid "Add the following to your %1$s file in %2$s, <strong>replacing</strong> other WordPress rules:"
+msgstr ":selur sserPdroW rehto <strong>gnicalper</strong> ,%2$s ni elif %1$s ruoy ot gniwollof eht ddA"
+
+#: wp-admin/network.php:523
+msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
+msgstr ".niaga ni gol ot evah lliw uoY .derugifnoc dna delbane si krowten ruoy ,spets eseht etelpmoc uoy ecnO"
+
