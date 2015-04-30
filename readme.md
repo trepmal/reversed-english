@@ -3,7 +3,11 @@
 ## Installation
 
 1. Install files in the language directory. Default `wp-content/languages/`
-2. Add to wp-config.php: `define ('WPLANG', 'en_RE');`
+2. Select `en_RE` Site Language in Settings > General
 
 
-![screenshot](screenshot.png)
+![General settings option](screenshot-2.png)
+
+
+
+![Dashboard preview](screenshot.png)
